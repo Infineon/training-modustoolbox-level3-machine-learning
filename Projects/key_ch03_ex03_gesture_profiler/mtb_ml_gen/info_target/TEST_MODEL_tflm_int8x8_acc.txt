@@ -1,2 +1,0 @@
-ACC: 100.00%
-Used Arena Size: 15605  Required size: 16kB

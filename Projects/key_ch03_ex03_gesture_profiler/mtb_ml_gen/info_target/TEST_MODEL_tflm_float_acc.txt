@@ -1,3 +1,0 @@
-Memory to be allocated for buffer               :    55.87 kB
-Memory size for NN model weights & biases       :    24.65 kB
-Accuracy for 32-bit floating-point implementation : 100.00

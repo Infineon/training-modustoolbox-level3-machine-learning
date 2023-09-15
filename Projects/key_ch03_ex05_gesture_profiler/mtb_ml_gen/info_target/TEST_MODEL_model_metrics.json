@@ -1,0 +1,8 @@
+{
+    "cycles_float": 11712331,
+    "model_mem_float": 25244,
+    "scratch_mem_float": 60189,
+    "cycles_int8x8": 3299256,
+    "model_mem_int8x8": 11088,
+    "scratch_mem_int8x8": 19713
+}
