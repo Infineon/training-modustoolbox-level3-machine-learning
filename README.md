@@ -20,11 +20,11 @@ The ModusToolbox™ Machine Learning Technology Pack must be installed to comple
 
 The manual consists of the following chapters:
 
-- Chapter 1: Introduction - Overall introduction to the class
-- Chapter 2: Machine learning basics - Background on what machine learning is and how it can be used
-- Chapter 3: Machine learning in ModusToolbox™ - Discussion of the Machine Learning Technology Pack and how it is used to create machine learning applications
-- Chapter 4: Imagimob Studio - How to use Imagimob Studio to collect and label data, create and train models, and deploy models to PSoC MCUs.
-- Chapter 5: Infineon ML parnters - Introduction to Infineon's machine learning partners and what level of services they offer
+- Chapter 1: Introduction - Overall introduction to the class.
+- Chapter 2: Machine learning basics - Background on what machine learning is and how it can be used.
+- Chapter 3: Imagimob - How to use Imagimob Studio to collect and label data, create and train models, and deploy models to PSoC MCUs.
+- Chapter 4: Machine learning in ModusToolbox™ - Discussion of the Machine Learning Technology Pack and how it is used to optimize Machine Learning models.
+- Chapter 5: Infineon ML parnters - Introduction to Infineon's machine learning partners and what level of services they offer.
 - Chapter 6: Cyberon - How to use Infineon's partner Cyberon to create single or dual stage audio keyword detection models and deploy them to PSoC MCUs.
 - Chapter 7: SensiML - How to use Infineon's partner SensiML to collect and label data, create and train models, and deploy models to PSoC MCUs.
 - Chapter 8: Edge Impulse - How to use Infineon's partner Edge Impulse to collect and label data, create and train models, and deploy models to PSoC MCUs.
